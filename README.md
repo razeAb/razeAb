@@ -10,9 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razeab" alt="razeab" /></a> </p>
 
 - 🔭 I’m currently working on:
-  - [Villa Rish Website](https://github.com/razea1/villa-rish-website) - A website for a small bed and breakfast business
-  - [Airbnb Landing Page](https://github.com/razeAb/air-bnb-Landing-page) - A landing page project for Airbnb
-  - [Hungry Restaurant](https://github.com/razeAb/hungry-resturant) - A restaurant website project
+  - [Airbnb Landing Page](https://villa-rish.netlify.app/) - A landing page project for Airbnb
+  - [Hungry Restaurant](https://hungryresturant.netlify.app/) - A restaurant website project
 
 - 🌱 I’m currently learning:
   - React and TypeScript
