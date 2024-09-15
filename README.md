@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razi Abu Rish</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
+📄 [Check out my Resume](https://github.com/razeAb/your-repo-name/blob/main/your-resume-file.pdf)
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAd/zoro.gif" alt="Zoro GIF" />
