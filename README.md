@@ -28,7 +28,6 @@
 
 - 📫 How to reach me:
   - Email: [razea1@hotmail.com](mailto:razea1@hotmail.com)
-  - Phone: +972509603191
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
