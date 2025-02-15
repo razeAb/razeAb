@@ -6,9 +6,6 @@
   <img src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAd/zoro.gif" alt="Zoro GIF" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razeab&label=Profile%20views&color=0e75b6&style=flat" alt="razeab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razeab" alt="razeab" /></a> </p>
 
 - 🔭 I’m currently working on:
   - [Airbnb Landing Page](https://villa-rish.netlify.app/) - A landing page project for Airbnb
